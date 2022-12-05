@@ -2,9 +2,12 @@
 
 With markdownified code snippets.
 
+<<<<<<< HEAD
 ![Screenshot](screenshot.jpg?raw=true)
 
-## Installation
+=======
+### Installation
+>>>>>>> 08a0dac56c30d07ccdb3e9350a813f1df0aeb9a0
 
 Can be found at the linked repository below.
 
