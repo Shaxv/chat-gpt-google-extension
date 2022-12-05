@@ -2,6 +2,8 @@
 
 With markdownified code snippets.
 
+![Screenshot](screenshot.jpg?raw=true)
+
 ## Installation
 
 Can be found at the linked repository below.
