@@ -2,7 +2,7 @@
 
 With markdownified code snippets.
 
-## Installation
+### Installation
 
 Can be found at the linked repository below.
 
